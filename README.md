@@ -1,5 +1,5 @@
 # ZhuTian_for_python
-It our game.
+It's our game.
 建议使用pycharm打开这个项目，
 运行main.py即可游戏
 
